@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+background: linear-gradient(90deg , rgba(13,16,154,1) 21%, rgba(142,9,188,1) 100%);
+}
+
+input{
+    margin:auto;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+input img{
+    border:2px solid black
+}
